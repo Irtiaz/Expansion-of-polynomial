@@ -2,7 +2,7 @@
 A project by Md Irtiaz Kabir to expand a polynomial raised to a specific integer pwoer (strictly greater than `0`)
 Enter the polynomial in this array
 By entering the co-efficients of the terms in an ascending order of power of `x`
-For example: `(1 + 4x^3 - 4x^4)` will be equivalent to (1 + 0x + 0x^2 + 4x^3 - 4x^4)
+For example: `(1 + 4x^3 - 4x^4)` will be equivalent to `(1 + 0x + 0x^2 + 4x^3 - 4x^4)`
 and should be entered as follows : 
  									polynomial = `[1, 0, 0, 4, -4]`
 and the expansion power is `n`
